@@ -14,6 +14,8 @@
 - [66daysofdata - Texbook resources for all fields of Data Science](https://github.com/66daysofdata/Resources/tree/main/Textbooks)
 - [(MBTI) Myers-Briggs Personality Type Dataset](https://www.kaggle.com/datasnaek/mbti-type)
 - [MNE - exploring, visualizing, and analyzing human neurophysiological data: MEG, EEG, sEEG, ECoG, NIRS, and more.](https://mne.tools/stable/index.html)
+- [Python para marketing digital: módulos para tratamento e análise de dados](https://celsocestaro.com.br/python-para-data-science-na-pratica/python-para-marketing-digital-modulos-para-tratamento-e-analise-de-dados/)
+- [Teoria da informação](https://pt.wikipedia.org/wiki/Teoria_da_informa%C3%A7%C3%A3o)
 
 ***
 
@@ -52,4 +54,9 @@
 - [66daysofdata - Texbook resources for all fields of Data Science](https://github.com/66daysofdata/Resources/tree/main/Textbooks)
 - [(MBTI) Myers-Briggs Personality Type Dataset](https://www.kaggle.com/datasnaek/mbti-type)
 
+[08-06-2021]
+- [Uma breve introdução à Neurociência Computacional – I de III](https://difusaoneuromat.wordpress.com/2019/06/17/uma-breve-introducao-a-neurociencia-computacional-i-de-iii/)
+- [Python para marketing digital: módulos para tratamento e análise de dados](https://celsocestaro.com.br/python-para-data-science-na-pratica/python-para-marketing-digital-modulos-para-tratamento-e-analise-de-dados/)
+- [Teoria da informação](https://pt.wikipedia.org/wiki/Teoria_da_informa%C3%A7%C3%A3o)
+- []()
 ***
