@@ -22,18 +22,6 @@ O projeto teve início como base o projeto [#66DaysOfData](https://www.youtube.c
 
 ***
 
-## Links Importantes
-
-- [Jerry Strazzeri](https://www.youtube.com/channel/UCxKAuN76I7bkAK0sRVOWcuQ)
-- [Neuralink Canal](https://www.youtube.com/c/neuralink/videos)
-- [Neuralink Site](https://neuralink.com/)
-- [Alvaro Machado Dias Canal](https://www.youtube.com/channel/UC7sn1AQ4QJhFY0_yC3JNFkA/videos)
-- [Alvaro Machado Dias Site](https://alvaromd.com.br/)
-
-&nbsp;
-
-***
-
 ## Licença
 
 A aplicação Sploot é publicado sob licença sob [MIT](LICENSE).
