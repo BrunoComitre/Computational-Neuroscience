@@ -68,7 +68,7 @@
 - [Python para marketing digital: módulos para tratamento e análise de dados](https://celsocestaro.com.br/python-para-data-science-na-pratica/python-para-marketing-digital-modulos-para-tratamento-e-analise-de-dados/)
 - [Teoria da informação](https://pt.wikipedia.org/wiki/Teoria_da_informa%C3%A7%C3%A3o)
 
-[09-06-2021]
+[10-06-2021]
 - [NeuroMat - Research Center for Neuromathematics](https://www.facebook.com/neuromathematics/)
 - [Wiki Movimento Brasil](https://www.facebook.com/wmnobrasil/)
 - [Traço de Ciência](https://difusaoneuromat.wordpress.com/)
