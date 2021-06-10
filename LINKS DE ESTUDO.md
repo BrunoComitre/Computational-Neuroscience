@@ -16,6 +16,15 @@
 - [MNE - exploring, visualizing, and analyzing human neurophysiological data: MEG, EEG, sEEG, ECoG, NIRS, and more.](https://mne.tools/stable/index.html)
 - [Python para marketing digital: módulos para tratamento e análise de dados](https://celsocestaro.com.br/python-para-data-science-na-pratica/python-para-marketing-digital-modulos-para-tratamento-e-analise-de-dados/)
 - [Teoria da informação](https://pt.wikipedia.org/wiki/Teoria_da_informa%C3%A7%C3%A3o)
+- [Celso Cestaro](https://celsocestaro.com.br/)
+- [NeuroMat Website](https://neuromat.numec.prp.usp.br/)
+- [Athinoula A. Martinos Center for Biomedical Imaging](https://www.martinos.org/)
+- [NeuroMat YouTube](https://www.youtube.com/channel/UCVBqgpuXwc0UVAUEGh41q3Q)
+- [NeuroMat Poadcast](https://podcast.numec.prp.usp.br/)
+- [NeuroMat GitHub](https://github.com/neuromat/)
+- [MGH Martinos Center](https://www.youtube.com/channel/UCCCZahcOPA9xrxMgMzLEyTA)
+- [FreeSurfer](https://www.facebook.com/FreeSurferMRI/?ref=py_c)
+- [MIT Brain and Cognitive Sciences](https://www.facebook.com/MITBCS/)
 
 ***
 
@@ -58,5 +67,22 @@
 - [Uma breve introdução à Neurociência Computacional – I de III](https://difusaoneuromat.wordpress.com/2019/06/17/uma-breve-introducao-a-neurociencia-computacional-i-de-iii/)
 - [Python para marketing digital: módulos para tratamento e análise de dados](https://celsocestaro.com.br/python-para-data-science-na-pratica/python-para-marketing-digital-modulos-para-tratamento-e-analise-de-dados/)
 - [Teoria da informação](https://pt.wikipedia.org/wiki/Teoria_da_informa%C3%A7%C3%A3o)
+
+[09-06-2021]
+- [NeuroMat - Research Center for Neuromathematics](https://www.facebook.com/neuromathematics/)
+- [Wiki Movimento Brasil](https://www.facebook.com/wmnobrasil/)
+- [Traço de Ciência](https://difusaoneuromat.wordpress.com/)
+- [Celso Cestaro](https://celsocestaro.com.br/)
+- [NeuroMat Website](https://neuromat.numec.prp.usp.br/)
+- [Athinoula A. Martinos Center for Biomedical Imaging](https://www.martinos.org/)
+- [NeuroMat YouTube](https://www.youtube.com/channel/UCVBqgpuXwc0UVAUEGh41q3Q)
+- [NeuroMat Poadcast](https://podcast.numec.prp.usp.br/)
+- [NeuroMat GitHub](https://github.com/neuromat/)
+- [mghmartinos](https://www.instagram.com/mghmartinos/)
+- [The MGH/HST Martinos Center for Biomedical Imaging](https://www.linkedin.com/company/mghmartinos/?challengeId=AQFrWqRoBPYeSAAAAXn12vxtyQhhEwZu4052BdlWMH9Zcowh6PS4zaWw94qpSypAMw0eV4EnSW81aV9Mycaf6uOvxQrTC6TOUA&submissionId=a4d9809e-b437-8716-62e1-0aeddd6a1d5a)
+- [MGH Martinos Center](https://www.youtube.com/channel/UCCCZahcOPA9xrxMgMzLEyTA)
+- [Martinos Center for Biomedical Imaging](https://www.facebook.com/MGHMartinos/)
+- [FreeSurfer](https://www.facebook.com/FreeSurferMRI/?ref=py_c)
+- [MIT Brain and Cognitive Sciences](https://www.facebook.com/MITBCS/)
 
 ***
