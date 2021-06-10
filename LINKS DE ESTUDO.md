@@ -84,5 +84,10 @@
 - [Martinos Center for Biomedical Imaging](https://www.facebook.com/MGHMartinos/)
 - [FreeSurfer](https://www.facebook.com/FreeSurferMRI/?ref=py_c)
 - [MIT Brain and Cognitive Sciences](https://www.facebook.com/MITBCS/)
+- [Jerry Strazzeri](https://www.youtube.com/channel/UCxKAuN76I7bkAK0sRVOWcuQ)
+- [Neuralink Canal](https://www.youtube.com/c/neuralink/videos)
+- [Neuralink Site](https://neuralink.com/)
+- [Alvaro Machado Dias Canal](https://www.youtube.com/channel/UC7sn1AQ4QJhFY0_yC3JNFkA/videos)
+- [Alvaro Machado Dias Site](https://alvaromd.com.br/)
 
 ***
