@@ -90,4 +90,8 @@
 - [Alvaro Machado Dias Canal](https://www.youtube.com/channel/UC7sn1AQ4QJhFY0_yC3JNFkA/videos)
 - [Alvaro Machado Dias Site](https://alvaromd.com.br/)
 
+[11-06-2021]
+- [M1 Mac Vs PC - BEST for Data Science](https://www.youtube.com/watch?v=YZkcEtWgMGw)
+- [The Best Computer for Data Science Beginners](https://www.youtube.com/watch?v=QQLToUlgN7A)
+
 ***
