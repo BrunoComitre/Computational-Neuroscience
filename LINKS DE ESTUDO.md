@@ -151,6 +151,9 @@
 - [Neuronaldynamics Exercises Documentation](https://neuronaldynamics-exercises.readthedocs.io/_/downloads/en/0.1.0/pdf/)
 
 [09-07-2021]
+- [Blue Brain Project](https://www.epfl.ch/research/domains/bluebrain/)
+
+[10-07-2021]
 - [BrunoComitre/Computational-Neuroscience](https://github.com/BrunoComitre/Computational-Neuroscience)
 
 ***
