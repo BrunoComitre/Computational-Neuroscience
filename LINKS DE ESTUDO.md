@@ -25,6 +25,9 @@
 - [MGH Martinos Center](https://www.youtube.com/channel/UCCCZahcOPA9xrxMgMzLEyTA)
 - [FreeSurfer](https://www.facebook.com/FreeSurferMRI/?ref=py_c)
 - [MIT Brain and Cognitive Sciences](https://www.facebook.com/MITBCS/)
+- [Neuronal Dynamics - From single neurons to networks and models of cognition](https://neuronaldynamics.epfl.ch/index.html)
+- [Neuronaldynamics Exercises Documentation](https://neuronaldynamics-exercises.readthedocs.io/_/downloads/en/0.1.0/pdf/)
+- [BrunoComitre/Computational-Neuroscience](https://github.com/BrunoComitre/Computational-Neuroscience)
 
 ***
 
@@ -93,5 +96,92 @@
 [11-06-2021]
 - [M1 Mac Vs PC - BEST for Data Science](https://www.youtube.com/watch?v=YZkcEtWgMGw)
 - [The Best Computer for Data Science Beginners](https://www.youtube.com/watch?v=QQLToUlgN7A)
+
+[12-06-2021]
+- [Signal Processing for Neuroscientists: Introduction to the Analysis of Physiological Signals](http://infinity.wecabrio.com/123708672-signal-processing-for-neuroscientists-an-introduct.pdf)
+- [Neuronal Dynamics: From single neurons to networks and models of cognition](https://neuronaldynamics.epfl.ch/index.html)
+- [Analyzing Neural Time Series Data](http://cognet.mit.edu/book/analyzing-neural-time-series-data)
+- [Neuronaldynamics Exercises Documentation](https://neuronaldynamics-exercises.readthedocs.io/_/downloads/en/0.1.0/pdf/)
+
+[13-06-2021]
+- [BrunoComitre/Computational-Neuroscience](https://github.com/BrunoComitre/Computational-Neuroscience)
+
+[14-06-2021]
+- [Modelos e análises computacionais em neurociências: revisão sistemática](http://pepsic.bvsalud.org/scielo.php?script=sci_arttext&pid=S1808-42812010000200015)
+
+[15-06-2021]
+- [Organization of high-level visual cortex in human infants](https://www.nature.com/articles/ncomms13995)
+
+[16-06-2021]
+- [Stanford researchers develop artificial intelligence tool to help detect brain aneurysms](https://news.stanford.edu/2019/06/07/ai-tool-helps-radiologists-detect-brain-aneurysms/)
+
+[17-06-2021]
+- [Natural image reconstruction from brain waves: a novel visual BCI system with native feedback](https://www.biorxiv.org/content/10.1101/787101v2)
+
+[18-06-2021]
+- [Neural network reconstructs human thoughts from brain waves in real time](https://techxplore.com/news/2019-10-neural-network-reconstructs-human-thoughts.html)
+
+[19-06-2021]
+- [Нейросети научили "читать мысли" в режиме реального времени](https://www.youtube.com/watch?v=nf-P3b2AnZw)
+
+[20-06-2021]
+- [AI-Based System Can Now Turn Brainwaves Into Text](https://analyticsindiamag.com/ai-based-system-can-now-turn-brainwaves-into-text/)
+
+[21-06-2021]
+- [66daysofdata - Podcasts](https://github.com/66daysofdata/Podcasts)
+
+[22-06-2021]
+- [66daysofdata - Deep Learning Roadmap](https://github.com/66daysofdata/Resources/tree/main/Deep%20Learning)
+
+[23-06-2021]
+- [66daysofdata - Texbook resources for all fields of Data Science](https://github.com/66daysofdata/Resources/tree/main/Textbooks)
+
+[24-06-2021]
+- [(MBTI) Myers-Briggs Personality Type Dataset](https://www.kaggle.com/datasnaek/mbti-type)
+
+[25-06-2021]
+- [MNE - exploring, visualizing, and analyzing human neurophysiological data: MEG, EEG, sEEG, ECoG, NIRS, and more.](https://mne.tools/stable/index.html)
+
+[26-06-2021]
+- [Python para marketing digital: módulos para tratamento e análise de dados](https://celsocestaro.com.br/python-para-data-science-na-pratica/python-para-marketing-digital-modulos-para-tratamento-e-analise-de-dados/)
+
+[27-06-2021]
+- [Teoria da informação](https://pt.wikipedia.org/wiki/Teoria_da_informa%C3%A7%C3%A3o)
+
+[28-06-2021]
+- [Celso Cestaro](https://celsocestaro.com.br/)
+
+[29-06-2021]
+- [NeuroMat Website](https://neuromat.numec.prp.usp.br/)
+
+[30-06-2021]
+- [Athinoula A. Martinos Center for Biomedical Imaging](https://www.martinos.org/)
+
+[01-07-2021]
+- [NeuroMat YouTube](https://www.youtube.com/channel/UCVBqgpuXwc0UVAUEGh41q3Q)
+
+[02-07-2021]
+- [NeuroMat Poadcast](https://podcast.numec.prp.usp.br/)
+
+[03-07-2021]
+- [NeuroMat GitHub](https://github.com/neuromat/)
+
+[04-07-2021]
+- [MGH Martinos Center](https://www.youtube.com/channel/UCCCZahcOPA9xrxMgMzLEyTA)
+
+[05-07-2021]
+- [FreeSurfer](https://www.facebook.com/FreeSurferMRI/?ref=py_c)
+
+[06-07-2021]
+- [MIT Brain and Cognitive Sciences](https://www.facebook.com/MITBCS/)
+
+[07-07-2021]
+- [Neuronal Dynamics - From single neurons to networks and models of cognition](https://neuronaldynamics.epfl.ch/index.html)
+
+[08-07-2021]
+- [Neuronaldynamics Exercises Documentation](https://neuronaldynamics-exercises.readthedocs.io/_/downloads/en/0.1.0/pdf/)
+
+[09-07-2021]
+- [BrunoComitre/Computational-Neuroscience](https://github.com/BrunoComitre/Computational-Neuroscience)
 
 ***
