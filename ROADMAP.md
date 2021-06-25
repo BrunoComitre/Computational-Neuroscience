@@ -8,8 +8,9 @@ Vale lembrar que, todos os links poderão ser revisitados, pois muitos tem artig
 
 - Essencial
    - [ ] Estudar PCA, LDA, ReLU, LSTM
-- Text
-   - [ ] Text
+- Atividades
+   - [ ] Realizar [Exercício do Livro](https://github.com/BrunoComitre/Computational-Neuroscience/blob/main/Docs/neuronaldynamics-exercises-readthedocs-io-en-0.1.0.pdf)
+   - [ ] Realizar busca por técnicas ou temas para aprender e criar kernels sobre [Teoria da informação](https://pt.wikipedia.org/wiki/Teoria_da_informa%C3%A7%C3%A3o)
 
 ## SUPORTE
 
@@ -23,14 +24,16 @@ Vale lembrar que, todos os links poderão ser revisitados, pois muitos tem artig
 - [Dinâmica Neuronal: De neurônios individuais a redes e modelos de cognição](https://neuronaldynamics.epfl.ch/index.html)
 
 ### Projetos:
-- [FreeSurferWiki](https://surfer.nmr.mgh.harvard.edu/fswiki/FreeSurferWiki)
+- [FreeSurferWiki](https://surfer.nmr.mgh.harvard.edu/fswiki/FreeSurferWiki) - Usar apenas para ler notícias.
 - [Stanford Machine Learning Group](https://stanfordmlgroup.github.io/)
+- [Blue Brain Project](https://www.epfl.ch/research/domains/bluebrain/) - Usar apenas para ler notícias.
 
 ### Cursos:
 - [Programa de cursos integrados IA para Medicina](https://www.coursera.org/specializations/ai-for-medicine?aid=true)
 
 ### Sites para Novidades:
 - [Wu Tsai Neurosciences Institute](https://neuroscience.stanford.edu/)
+- [Athinoula A. Martinos Center for Biomedical Imaging](https://www.martinos.org/)
 
 ## REGRAS
 
