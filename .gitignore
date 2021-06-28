@@ -6,3 +6,8 @@ Draft/
 # IDE - VSCode
 .vscode/*
 .DS_Store
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
