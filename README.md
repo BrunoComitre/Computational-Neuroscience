@@ -36,6 +36,6 @@ O projeto teve início como base o projeto [#66DaysOfData](https://www.youtube.c
 
 ## Licença
 
-A aplicação Sploot é publicado sob licença sob [MIT](LICENSE).
+A aplicação Sploot é publicado sob licença [MIT](LICENSE).
 
 ***
