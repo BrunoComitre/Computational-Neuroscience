@@ -1,4 +1,4 @@
-# Material de Estudo Lido
+# Material de Estudo
 
 ## Lidos em 66DaysOfData
 
