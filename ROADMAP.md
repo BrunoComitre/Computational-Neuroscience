@@ -10,12 +10,14 @@ Lembrando que, todos os links podem ser revisitados, pois muitos links que serve
 
 ## TO-DO
 
-- Essencial
-   - [ ] Realizar [Exercício do Livro](https://github.com/BrunoComitre/Computational-Neuroscience/blob/main/Docs/neuronaldynamics-exercises-readthedocs-io-en-0.1.0.pdf)
-   - [ ] Realizar Arquivo no Kaggle
+- Geral
+   - [x] Realizar Arquivo no Kaggle - Criado arquivo inicial para testar imports.
+      - [x] Realizar [Exercício do Livro](https://github.com/BrunoComitre/Computational-Neuroscience/blob/main/Docs/neuronaldynamics-exercises-readthedocs-io-en-0.1.0.pdf) - Kaggle não suporta os imports, por isso não foi realizado.
+      - [x] Ver como roda o Neurodinex e Brian2 no Kaggle e pra que funciona.
+      - [x] Biblioteca principal e essêncial: [MNE Website](https://mne.tools/stable/index.html) - Instalado no Kaggle.
+- Especifico
    - [ ] Estudar PCA, LDA, ReLU, LSTM
    - [ ] Realizar busca por técnicas ou temas para aprender e criar kernels sobre [Teoria da informação](https://pt.wikipedia.org/wiki/Teoria_da_informa%C3%A7%C3%A3o)
-   - [ ] Biblioteca principal e essêncial: [MNE Website](https://mne.tools/stable/index.html) e [MNE GitHub](https://github.com/mne-tools/mne-python)
 
 ***
 
